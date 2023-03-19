@@ -17,7 +17,7 @@ Bookshelf Finder is a web application that allows you to search for books by ISB
 # Installation
 Clone the repository: 
 ```ruby
-git clone https://github.com/etsond/bookFinder.git
+git clone https://github.com/etsond/Bookshelf-Finder
 ``` 
 > Open the index.html file in your web browser.
 ## Credits
